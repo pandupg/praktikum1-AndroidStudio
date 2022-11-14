@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Praktikum1/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Praktikum1/app/src/main/res/layout/activity_biodata.xml" value="0.22" />
+        <entry key="..\:/Praktikum1/app/src/main/res/layout/activity_main.xml" value="0.16228467815049863" />
+        <entry key="..\:/Praktikum1/app/src/main/res/layout/biodata.xml" value="0.1621376811594203" />
       </map>
     </option>
   </component>

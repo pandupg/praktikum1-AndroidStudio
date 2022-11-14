@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Praktikum1</string>
+    <string name="app_name">Praktikum 1</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="nama_belakang">Nama Belakang</string>
+    <string name="nama_depan">Nama Depan</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="results">Result</string>
+    <string name="alamat">Alamat</string>
 </resources>
